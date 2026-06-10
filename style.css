@@ -2,3 +2,13 @@
     font-family: sans-serif;
     margin: 0;
 }
+h1{
+    text-align: center;
+    color: red;
+    text-decoration:line-through;
+}
+p{
+    text-align: center;
+    color: green;
+    text-decoration:underline;
+}
